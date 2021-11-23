@@ -1,4 +1,4 @@
-import {Box} from '@fower/react';
+import {Box} from '@mxjs/box';
 import PropTypes from 'prop-types';
 
 const Media = ({children, ...props}) => {
