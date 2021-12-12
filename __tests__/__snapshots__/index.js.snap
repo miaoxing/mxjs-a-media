@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Media basic 1`] = `
+<div>
+  <div
+    class="flex flexDirection-row row-toTop"
+  />
+</div>
+`;
+
+exports[`Media body 1`] = `
+<div>
+  <div
+    class="flex flexDirection-row row-toTop"
+  >
+    image
+    <div
+      class="flex-1 ml-12"
+    >
+      body
+    </div>
+  </div>
+</div>
+`;
