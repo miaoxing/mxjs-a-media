@@ -1,3 +1,19 @@
+## [0.1.1](https://github.com/miaoxing/mxjs-a-media/compare/v0.1.0...v0.1.1) (2022-01-12)
+
+
+### Features
+
+* **a-media:** 增加 `Media` 组件 ([c1c293d](https://github.com/miaoxing/mxjs-a-media/commit/c1c293d674733df30ac3c42da8d0254c3c075926))
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/box:** upgrade from `0.2.3` to `0.3.0`
+* **@miaoxing/dev:** upgrade from `8.0.0` to `8.0.1`
+
 # 0.1.0 (2021-11-22)
 
 
