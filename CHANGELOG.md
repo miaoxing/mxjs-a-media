@@ -1,3 +1,19 @@
+# [1.0.0](https://github.com/miaoxing/mxjs-a-media/compare/v0.1.4...v1.0.0) (2022-07-01)
+
+
+### Features
+
+* 发布 1.0.0 [release 1.0.0] ([14cc982](https://github.com/miaoxing/mxjs-a-media/commit/14cc982825716bc739b6bbbb530876be75f08a4e))
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/box:** upgrade from `0.3.3` to `0.3.4`
+* **@miaoxing/dev:** upgrade from `8.1.1` to `8.1.2`
+
 ## [0.1.4](https://github.com/miaoxing/mxjs-a-media/compare/v0.1.3...v0.1.4) (2022-06-01)
 
 
