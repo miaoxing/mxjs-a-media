@@ -1,3 +1,14 @@
+## [1.0.6](https://github.com/miaoxing/mxjs-a-media/compare/v1.0.5...v1.0.6) (2023-11-30)
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/box:** upgrade from `0.3.9` to `0.3.10`
+* **@miaoxing/dev:** upgrade from `8.2.3` to `8.2.4`
+
 ## [1.0.5](https://github.com/miaoxing/mxjs-a-media/compare/v1.0.4...v1.0.5) (2023-09-02)
 
 
