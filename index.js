@@ -1,9 +1,9 @@
-import {Box} from '@mxjs/box';
+import { Box } from '@mxjs/a-box';
 import PropTypes from 'prop-types';
 
 const Media = ({children, ...props}) => {
   return (
-    <Box flex toTop {...props}>
+    <Box display="flex" alignItems="flex-start" {...props}>
       {children}
     </Box>
   );
@@ -15,7 +15,7 @@ Media.propTypes = {
 
 Media.Body = ({children, ...props}) => {
   return (
-    <Box flex={1} ml3 {...props}>
+    <Box flex={1} ml={3} {...props}>
       {children}
     </Box>
   );

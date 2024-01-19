@@ -11,7 +11,7 @@
     "preset": "jest-preset-miaoxing"
   },
   "dependencies": {
-    "@mxjs/box": "^0.3.12"
+    "@mxjs/a-box": "^1.0.0"
   },
   "devDependencies": {
     "@miaoxing/dev": "^9.1.0",
@@ -28,7 +28,6 @@
     "babel-preset-miaoxing": "miaoxing/babel-preset-miaoxing",
     "jest-preset-miaoxing": "miaoxing/jest-preset-miaoxing",
     "@miaoxing/dev": "miaoxing/dev",
-    "@mxjs/box": "miaoxing/mxjs-box",
-    "@mxjs/css": "miaoxing/mxjs-css"
+    "@mxjs/a-box": "miaoxing/mxjs-a-box"
   }
 }
