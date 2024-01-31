@@ -1,3 +1,24 @@
+# [2.0.0](https://github.com/miaoxing/mxjs-a-media/compare/v1.0.8...v2.0.0) (2024-01-31)
+
+
+### Features
+
+* **a-media:** 更新 box 组件为 chakra-ui ([49d32fd](https://github.com/miaoxing/mxjs-a-media/commit/49d32fda77f074087158884909dce891c355de4e))
+* 更新 `react` 支持 18 ([42e1753](https://github.com/miaoxing/mxjs-a-media/commit/42e17536a8d11cc82e62702817690eb14e7f1a00))
+
+
+### BREAKING CHANGES
+
+* **a-media:** 更新 box 组件为 chakra-ui
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/a-box:** upgrade from `1.0.0` to `1.1.0`
+
 ## [1.0.8](https://github.com/miaoxing/mxjs-a-media/compare/v1.0.7...v1.0.8) (2024-01-08)
 
 
