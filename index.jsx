@@ -1,27 +1,30 @@
-import { Box } from '@mxjs/a-box';
 import PropTypes from 'prop-types';
+import clsx from 'clsx';
+import { twMerge } from 'tailwind-merge';
 
-const Media = ({children, ...props}) => {
+const Media = ({ className, children, ...props }) => {
   return (
-    <Box display="flex" alignItems="flex-start" {...props}>
+    <div className={twMerge(clsx('flex items-start', className))} {...props}>
       {children}
-    </Box>
+    </div>
   );
 };
 
 Media.propTypes = {
+  className: PropTypes.string,
   children: PropTypes.node,
 };
 
-Media.Body = ({children, ...props}) => {
+Media.Body = ({ className, children, ...props }) => {
   return (
-    <Box flex={1} ml={3} {...props}>
+    <div className={twMerge(clsx('flex-1 ml-3', className))} {...props}>
       {children}
-    </Box>
+    </div>
   );
 };
 
 Media.Body.propTypes = {
+  className: PropTypes.string,
   children: PropTypes.node,
 };
 

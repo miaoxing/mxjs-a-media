@@ -3,7 +3,7 @@
 exports[`Media basic 1`] = `
 <div>
   <div
-    class="css-1yp4ln"
+    class="flex items-start"
   />
 </div>
 `;
@@ -11,11 +11,11 @@ exports[`Media basic 1`] = `
 exports[`Media body 1`] = `
 <div>
   <div
-    class="css-1yp4ln"
+    class="flex items-start"
   >
     image
     <div
-      class="css-fwkgyb"
+      class="flex-1 ml-3"
     >
       body
     </div>
