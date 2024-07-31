@@ -1,3 +1,28 @@
+# [3.0.0](https://github.com/miaoxing/mxjs-a-media/compare/v2.0.1...v3.0.0) (2024-07-31)
+
+
+### Bug Fixes
+
+* 更改入口文件，解决 vite "Failed to resolve entry for package" 问题 ([35013b2](https://github.com/miaoxing/mxjs-a-media/commit/35013b2166ee3e5539b75920130ed9c76bdd0302))
+
+
+### Features
+
+* **a-media:** 使用 Tailwind CSS 调整 Media 组件样式 ([eaeaa8c](https://github.com/miaoxing/mxjs-a-media/commit/eaeaa8c8f39f9c34054ec121a9e67022739bcc8d))
+
+
+### BREAKING CHANGES
+
+* **a-media:** 使用 Tailwind CSS 调整 Media 组件样式
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `9.1.1` to `9.1.2`
+
 ## [2.0.1](https://github.com/miaoxing/mxjs-a-media/compare/v2.0.0...v2.0.1) (2024-03-31)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/a-media",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "main": "index.jsx",
   "license": "MIT",
   "publishConfig": {
@@ -15,7 +15,7 @@
     "tailwind-merge": "^2.3.0"
   },
   "devDependencies": {
-    "@miaoxing/dev": "^9.1.1",
+    "@miaoxing/dev": "^9.1.2",
     "@testing-library/react": "^14",
     "react": ">=16.13.1",
     "react-dom": ">=16.13.1",
