@@ -1,3 +1,13 @@
+## [3.0.1](https://github.com/miaoxing/mxjs-a-media/compare/v3.0.0...v3.0.1) (2024-08-03)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `9.1.2` to `9.1.3`
+
 # [3.0.0](https://github.com/miaoxing/mxjs-a-media/compare/v2.0.1...v3.0.0) (2024-07-31)
 
 
